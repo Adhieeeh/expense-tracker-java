@@ -4,6 +4,8 @@
 A simple Java CLI tool that helps users track personal spending, log descriptions, and view aggregate summary statistics.
 
 ## Features
+
+
 - Add itemized expense descriptions with real-time amount logging
 - View dynamic lists of past transactions
 - Calculate total expenditure and highlight the highest cost item
