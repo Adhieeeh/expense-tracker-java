@@ -1,5 +1,6 @@
 # Personal Expense Tracker
 ----------------------------------------------------------------------------
+
 A simple Java CLI tool that helps users track personal spending, log descriptions, and view aggregate summary statistics.
 
 ## Features
