@@ -5,7 +5,7 @@ A simple Java CLI tool that helps users track personal spending, log description
 
 ##  Preview
 ---------------------------------------------------------------------------
-!
+![]
 ## Features
 ------------------------------------------------------------------------
 
