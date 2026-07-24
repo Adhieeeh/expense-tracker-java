@@ -11,7 +11,7 @@ A simple Java CLI tool that helps users track personal spending, log description
 - Calculate total expenditure and highlight the highest cost item
 
 ##  Concepts Demonstrated
-
+--------------------------------------------------------------------------
 - **Parallel Collections:** Managing related datasets across synchronized `ArrayList` instances.
 - **Arithmetic Accumulation:** Computing rolling sums with assignment operators (`+=`).
 - **Input Cleaning:** Managing Scanner buffer issues with `sc.nextLine()`.
