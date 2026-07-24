@@ -12,6 +12,7 @@ A simple Java CLI tool that helps users track personal spending, log description
 
 ##  Concepts Demonstrated
 --------------------------------------------------------------------------
+
 - **Parallel Collections:** Managing related datasets across synchronized `ArrayList` instances.
 - **Arithmetic Accumulation:** Computing rolling sums with assignment operators (`+=`).
 - **Input Cleaning:** Managing Scanner buffer issues with `sc.nextLine()`.
