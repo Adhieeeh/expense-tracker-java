@@ -21,4 +21,4 @@ A simple Java CLI tool that helps users track personal spending, log description
 - **Arithmetic Accumulation:** Computing rolling sums with assignment operators (`+=`).
 - **Input Cleaning:** Managing Scanner buffer issues with `sc.nextLine()`.
 
---------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
